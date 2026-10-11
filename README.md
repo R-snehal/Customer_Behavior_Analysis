@@ -131,5 +131,3 @@ Open `Dashboard.pbix` in Power BI Desktop and configure the data source if neces
 ## Author
 **Rishika Snehal**
 
-- LinkedIn: <your-linkedin-profile-url>
-- GitHub: <your-github-profile-url>
